@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food Book</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="you_haven_t_add_any_favorite_meal_yet">You haven\'t add any favorite meal yet.</string>
+    <string name="delete">Delete</string>
+    <string name="category_icon">Category Icon</string>
+    <string name="youtube_icon">Youtube Icon</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="home_icon">Home Icon</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="close_icon">Close Icon</string>
+</resources>
