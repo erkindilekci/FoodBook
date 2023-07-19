@@ -4,8 +4,7 @@
   <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/foodbook.png" alt="Food Book">
 </p>
 
-
-<img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/foodbook.gif" align="right" width="180">
+<img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/foodbook.gif" align="right" width="170">
 
 ## Technologies
 - Jetpack Compose
